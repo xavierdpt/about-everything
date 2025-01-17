@@ -37,3 +37,10 @@ This is a repository for hosting documentation on various topics. There's no spe
 
 tailwindcss, next.js, laravel, vite, nuxt,   gatsby, solidjs, sveltekit, angular, ruby on rails, remix, phoenix, elixir, parcel, symfony, meteor, react, adonisjs, ember.js, astro, qwik, rspack
 
+react, svelte, vue
+
+blade, erb, twig, nunjucks
+
+postcss, sass, less, stylus, autoprefixer, postcss-import, tailwindcss/nesting, postcss-nested, postcss-nesting, CSS Nesting specification, postcss-preset-env, webpack, rollup, vite, parcel
+
+
