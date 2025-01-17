@@ -41,6 +41,6 @@ react, svelte, vue
 
 blade, erb, twig, nunjucks
 
-postcss, sass, less, stylus, autoprefixer, postcss-import, tailwindcss/nesting, postcss-nested, postcss-nesting, CSS Nesting specification, postcss-preset-env, webpack, rollup, vite, parcel
+postcss, sass, less, stylus, autoprefixer, postcss-import, tailwindcss/nesting, postcss-nested, postcss-nesting, CSS Nesting specification, postcss-preset-env, webpack, rollup, vite, parcel, laravel mix, vue, browserslist, caniuse, electron
 
 
