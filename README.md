@@ -4,34 +4,34 @@ This is a repository for hosting documentation on various topics. There's no spe
 
 # Things
 
-| Category | Thing           | External URL         | Internal Page |
-| -------- | --------------- | -------------------- | ------------- |
-|          | ClickUp         | https://clickup.com/ |               |
-|          | slack           |                      |               |
-|          | microsoft teams |                      |               |
-|          | google drive    |                      |               |
-|          | salesforce      |                      |               |
-|          | hubspot         |                      |               |
-|          | chatgpt         |                      |               |
-|          | jira            |                      |               |
-|          | loom            |                      |               |
-|          | notion          |                      |               |
-|          | monday          |                      |               |
-|          | trello          |                      |               |
-|          | asana           |                      |               |
-|          | smartsheet      |                      |               |
-|          | airtable        |                      |               |
-|          | linear          |                      |               |
-|          | productboard    |                      |               |
-|          | lattice         |                      |               |
-|          | mural           |                      |               |
-|          | miro            |                      |               |
-|          | coda            |                      |               |
-|          | sharepoint      |                      |               |
-|          | confluence      |                      |               |
-|          | hourstack       |                      |               |
-|          | clockify        |                      |               |
-|          | wrike           |                      |               |
-|          | mongodb         |                      |               |
-|          | github          |                      |               |
+| Category                   | Thing           | External URL         | Internal Page |
+| -------------------------- | --------------- | -------------------- | ------------- |
+|  Project Management Tools  | ClickUp         | https://clickup.com/ |               |
+|                            | slack           |                      |               |
+|                            | microsoft teams |                      |               |
+|                            | google drive    |                      |               |
+|                            | salesforce      |                      |               |
+|                            | hubspot         |                      |               |
+|                            | chatgpt         |                      |               |
+|                            | jira            |                      |               |
+|                            | loom            |                      |               |
+|                            | notion          |                      |               |
+|                            | monday          |                      |               |
+|                            | trello          |                      |               |
+|                            | asana           |                      |               |
+|                            | smartsheet      |                      |               |
+|                            | airtable        |                      |               |
+|                            | linear          |                      |               |
+|                            | productboard    |                      |               |
+|                            | lattice         |                      |               |
+|                            | mural           |                      |               |
+|                            | miro            |                      |               |
+|                            | coda            |                      |               |
+|                            | sharepoint      |                      |               |
+|                            | confluence      |                      |               |
+|                            | hourstack       |                      |               |
+|                            | clockify        |                      |               |
+|                            | wrike           |                      |               |
+|                            | mongodb         |                      |               |
+|                            | github          |                      |               |
 
