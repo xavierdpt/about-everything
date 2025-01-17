@@ -20,7 +20,7 @@ This is a repository for hosting documentation on various topics. There's no spe
 |                                                    | trello          |                           |                         |
 |                                                    | asana           |                           |                         |
 |                                                    | smartsheet      |                           |                         |
-|  Cloud Collaboration and Database Management Tools | airtable        | https://www.airtable.com/ | [AirTable](AirTable.md) |
+|  Cloud Collaboration and Database Management Tools | Airtable        | https://www.airtable.com/ | [Airtable](Airtable.md) |
 |                                                    | linear          |                           |                         |
 |                                                    | productboard    |                           |                         |
 |                                                    | lattice         |                           |                         |
