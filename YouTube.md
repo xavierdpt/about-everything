@@ -7,6 +7,7 @@ https://www.youtube.com/@freecodecamp
 - https://www.youtube.com/watch?v=-2UjwQzxvBQ
   - SvelteKit & TailwindCSS Tutorial – Build & Deploy a Web Portfolio
   - 2023/10/03 - 1:13:16
+  - This video offers a basic introduction to building a project with SvelteKit and TailwindCSS, covering tools like `npm create svelte@latest`, `vitePreprocess`, and libraries such as Google Fonts, Font Awesome, and Particles.js. While it highlights key steps like initializing TailwindCSS, using reserved Svelte file names (`+layout`, `+page`), and responsive CSS classes, it often lacks deeper explanations of critical concepts such as the relationship between Vite, PostCSS, and Svelte, or the function of `@tailwind` directives and custom class naming conventions. The presentation suffers from unexplained design decisions, obscured content due to the creator’s video feed, and a lack of demonstrations for responsiveness or CSS utility parsing. Although useful for those with prior experience, the video misses the opportunity to guide beginners through the rationale and interconnectedness of the tools and techniques used.
 - https://www.youtube.com/watch?v=-42K44A1oMA
 - https://www.youtube.com/watch?v=-8LTPIJBGwQ
 - https://www.youtube.com/watch?v=-ANCcFQBk6I
