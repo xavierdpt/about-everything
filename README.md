@@ -6,7 +6,7 @@ This is a repository for hosting documentation on various topics. There's no spe
 
 | Category                   | Thing           | External URL         | Internal Page |
 | -------------------------- | --------------- | -------------------- | ------------- |
-|  Project Management Tools  | ClickUp         | https://clickup.com/ |               |
+|  Project Management Tools  | ClickUp         | https://clickup.com/ | [ClickUp](ClickUp.md)     |
 |                            | slack           |                      |               |
 |                            | microsoft teams |                      |               |
 |                            | google drive    |                      |               |
