@@ -35,3 +35,5 @@ This is a repository for hosting documentation on various topics. There's no spe
 |                                                    | mongodb         |                           |                         |
 |                                                    | github          |                           |                         |
 
+tailwindcss, next.js, laravel, vite, nuxt,   gatsby, solidjs, sveltekit, angular, ruby on rails, remix, phoenix, elixir, parcel, symfony, meteor, react, adonisjs, ember.js, astro, qwik, rspack
+
