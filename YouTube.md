@@ -6,7 +6,7 @@ https://www.youtube.com/@freecodecamp
 
 - https://www.youtube.com/watch?v=-2UjwQzxvBQ
   - SvelteKit & TailwindCSS Tutorial – Build & Deploy a Web Portfolio
-  - 2023/10/03
+  - 2023/10/03 - 1:13:16
 - https://www.youtube.com/watch?v=-42K44A1oMA
 - https://www.youtube.com/watch?v=-8LTPIJBGwQ
 - https://www.youtube.com/watch?v=-ANCcFQBk6I
