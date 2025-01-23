@@ -162,6 +162,8 @@ https://www.youtube.com/@freecodecamp
 - https://www.youtube.com/watch?v=51gc7-eskU8
 - https://www.youtube.com/watch?v=531FRc8e2Sk
 - https://www.youtube.com/watch?v=59IXY5IDrBA
+  - React Router 6 – Tutorial for Beginners
+  - 2022/05/04 - 1:17:24
 - https://www.youtube.com/watch?v=5CSKJv1qXoA
 - https://www.youtube.com/watch?v=5GYr1L0wMxg
 - https://www.youtube.com/watch?v=5JWgw_Umbow
