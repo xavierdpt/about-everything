@@ -33,6 +33,8 @@ https://www.youtube.com/@freecodecamp
 - https://www.youtube.com/watch?v=023Psne_-_4
 - https://www.youtube.com/watch?v=025QFeZfeyM
 - https://www.youtube.com/watch?v=0277AINk5xk
+  - A day at Amazon with developer Dave Jeffers
+  - 2017/05/12 - 4:44
 - https://www.youtube.com/watch?v=03L0c-YMIhE
 - https://www.youtube.com/watch?v=04L0BbAcCpQ
 - https://www.youtube.com/watch?v=07lfmzGHrSI
